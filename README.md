@@ -62,7 +62,7 @@ A logarithmic view:
 
 ![download](https://cdn-uploads.huggingface.co/production/uploads/6957bafe54c6b170be4df9cb/w3n_k-CcHPvsfTqD1SeZR.png)
 
-Validation exact match on 100 examples is tracked during training.
+Validation exact match on 100 examples is tracked during training. Training doesn’t show any improvement in the accuracy metric, which demonstrates the inefficiency of training on task-solution pairs while trying to give the model common sense.
 
 ![image](https://cdn-uploads.huggingface.co/production/uploads/6957bafe54c6b170be4df9cb/XNDNiO7rxygvJg8KqA5UM.png)
 
